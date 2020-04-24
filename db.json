@@ -7,5 +7,12 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "reserve": {
+    "date": "23.04.2020",
+    "selectedTime": "12:00",
+    "summ": "50000",
+    "address": "г. Архангельск, ул. Воскресенская, д. 93, корп. 3, 1 этаж",
+    "status":"success"
   }
 }
